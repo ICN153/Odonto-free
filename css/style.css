@@ -306,11 +306,10 @@ ul{
 display: flex;    
 justify-content: space-between;
 align-items: center;
+color: var(--text);
 }
 
-.content-hero p{
- color: var(--brand-light);
-}
+
 
 .redes{
     display: flex;
